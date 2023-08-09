@@ -45,5 +45,9 @@ body {
 .container__aviso {
     text-align: center;
     font-size: 12px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: var(--cinza-secundario);
+}
+.container__titulo {
+    font-size: 28px;
+    font-weight: 700;
 }
