@@ -80,3 +80,12 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.secundario__botao {
+    display: inline-block;
+    margin: 1em 0 0 0;
+}
+
+.container__descricao {
+    padding: 2em;
+}
